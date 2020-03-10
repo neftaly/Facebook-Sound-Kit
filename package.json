@@ -1,0 +1,27 @@
+{
+  "name": "facebook-sound-kit",
+  "version": "1.0.0",
+  "description": "A collection of interaction sounds for prototypes.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoardGameWorks/Facebook-Sound-Kit.git"
+  },
+  "keywords": [
+    "sound",
+    "sounds",
+    "effect",
+    "effects",
+    "ui",
+    "ux"
+  ],
+  "author": "",
+  "license": "SEE LICENSE IN <README.md>",
+  "bugs": {
+    "url": "https://github.com/BoardGameWorks/Facebook-Sound-Kit/issues"
+  },
+  "homepage": "https://github.com/BoardGameWorks/Facebook-Sound-Kit#readme",
+  "devDependencies": {}
+}
