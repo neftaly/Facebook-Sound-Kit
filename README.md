@@ -1,5 +1,11 @@
 # Facebook Sound Kit
 
+```js
+import button1 from 'facebook-sound-kit/Full_Volume_-5dB/Buttons_and_Navigation/Button_1.m4a';
+```
+
+See [files.json](./files.json) for a list of filenames.
+
 ## What is this?
 
 To help designers explore how sound can impact their designs, Facebook Design created a collection of interaction sounds for prototypes. Two folders are included in this download: "Full Volume" and "Low Volume". Each has a variety of sounds that are identical to each other with one difference being the default volume.
